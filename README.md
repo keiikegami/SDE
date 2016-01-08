@@ -1,8 +1,7 @@
-# SDE
+# SDEs
 
-このseedだと、2000回目ぐらいで下方に振り切れちゃう
-他のseedでも試してみると、5000まで到達する奴もあれば300ぐらいで下方に消え去る奴もあった
+numerical solutions for Stochastic Differencial Equations by Euler - Maruyama method
 
-![step = 0.1](https://github.com/keiikegami/SDE/blob/master/step%3D0.1.png)
+each plot is averaged 
 
 [ipython notebook](https://github.com/keiikegami/SDE/blob/master/differential%20equation%20numerical%20method.ipynb)
